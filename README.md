@@ -1,9 +1,9 @@
 To install the application, use YARN 
 
-At first copy files to your local PC from github. 
+First copy files to your local PC from github. 
 
-Next run yarn install into app main folder 
+Next run yarn install into the app's main folder 
 
-And finally run the command "yarn start" to run the application.
+And finally, run the command "yarn start" to run the application.
 
- The port of the moon for testing is available in the env file.
+The port of the apps for testing is available in the env file.
