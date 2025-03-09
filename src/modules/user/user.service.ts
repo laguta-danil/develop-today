@@ -20,7 +20,7 @@ export class UserService {
                 holidays.includes(response.localName),
             );
 
-            // Needs some improvement, written simply as an example of saving the database
+            // Needs some improvement, written simply as an example of saving to the database
             const user = await this.userRepository.getUser(userId)
 
             if (!user) {
